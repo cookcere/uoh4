@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         ASM Labor Kiosk
+// @name         EOS Labor Kiosk
 // @namespace    http://tampermonkey.net/
-// @version      0.2
-// @description  Will Log ASM into ASM function
+// @version      1
+// @description  Will Log AM into EOS function
 // @author       craihowa
 // @match        https://aftlite-portal.amazon.com/indirect_action
 // @grant        none
