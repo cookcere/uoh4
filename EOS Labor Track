@@ -12,7 +12,7 @@ var myVar = setInterval(labortrack, 60000);
 
 function labortrack() {
 
-(document.getElementById('scan_name').value= 'brcrlos')
-document.getElementById('scan_code').value= 'asm'
+(document.getElementById('scan_name').value= 'cookcere')
+document.getElementById('scan_code').value= 'EOS'
     document.querySelector("input[type='submit']").click();
 }
